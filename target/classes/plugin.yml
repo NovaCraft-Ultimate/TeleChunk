@@ -1,0 +1,4 @@
+main: net.spideynn.bukkit.telechunk.Main
+name: TeleChunk
+description: Reloads a chunk on teleport.
+version: 1.0-SNAPSHOT
